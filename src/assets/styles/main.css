@@ -1,0 +1,27 @@
+:root{
+    --main-color:#b7e3fa;
+}
+:root.dark{
+    --main-color:#111d2c
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    /* background-color: white; */
+}
+.footer{
+    /* background-color: white; */
+}
+.content{
+    /* background-color: white; */
+    padding: 1rem;
+    margin: 1rem;
+    min-height: 100vh;
+}
+
+.ant-popconfirm-buttons{
+    text-align: center !important;
+}
