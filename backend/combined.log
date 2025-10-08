@@ -1,0 +1,20 @@
+{"level":"error","message":"JsonWebTokenError: secret or public key must be provided","metadata":{"method":"GET","url":"/api/user"}}
+{"level":"error","message":"JsonWebTokenError: secret or public key must be provided","metadata":{"method":"GET","url":"/api/user"}}
+{"level":"error","message":"JsonWebTokenError: secret or public key must be provided","metadata":{"method":"GET","url":"/api/user"}}
+{"level":"error","message":"JsonWebTokenError: secret or public key must be provided","metadata":{"method":"GET","url":"/api/user"}}
+{"level":"error","message":"JsonWebTokenError: secret or public key must be provided","metadata":{"method":"GET","url":"/api/user"}}
+{"level":"error","message":"JsonWebTokenError: secret or public key must be provided","metadata":{"method":"GET","url":"/api/user"}}
+{"level":"error","message":"JsonWebTokenError: secret or public key must be provided","metadata":{"method":"GET","url":"/api/user"}}
+{"level":"error","message":"JsonWebTokenError: secret or public key must be provided","metadata":{"method":"GET","url":"/api/user"}}
+{"level":"error","message":"JsonWebTokenError: secret or public key must be provided","metadata":{"method":"GET","url":"/api/article"}}
+{"level":"error","message":"JsonWebTokenError: secret or public key must be provided","metadata":{"method":"GET","url":"/api/article"}}
+{"level":"error","message":"TokenExpiredError: jwt expired","metadata":{"method":"GET","url":"/api/user"}}
+{"level":"error","message":"Anuthorized Error","metadata":{"method":"DELETE","url":"/api/article/11"}}
+{"level":"info","message":"logger","metadata":{"id":1,"role":"ADMIN"}}
+{"level":"info","message":"user:login","metadata":{"id":1,"role":"ADMIN"}}
+{"level":"info","message":"user:login","metadata":{"id":1,"role":"ADMIN"}}
+{"level":"error","message":"BadRequestError is not defined","metadata":{"method":"POST","url":"/api/login"}}
+{"level":"error","message":"نام کاربری یا کلمه عبور صحیح نمیباشد","metadata":{"method":"POST","url":"/api/login"}}
+{"level":"error","message":"نام کاربری یا کلمه عبور صحیح نمیباشد","metadata":{"method":"POST","url":"/api/login"}}
+{"level":"error","message":"نام کاربری یا کلمه عبور صحیح نمیباشد","metadata":{"method":"POST","url":"/api/login"}}
+{"level":"error","message":"نام کاربری یا کلمه عبور صحیح نمیباشد","metadata":{"method":"POST","url":"/api/login"}}
